@@ -6,6 +6,8 @@
 Ссылка на мой первый коммит: https://github.com/Ira-Via/-Git-.git
 # Задание 2.
 Ссылка на коммит с добавлением .gitignore: https://github.com/Ira-Via/-Git-.git
+SSH: git@github.com:Ira-Via/-Git-.git
+GitHub CLI: gh repo clone Ira-Via/-Git-
 # Задание 3.
 Ссылка на решение данной задачи: 
 https://github.com/Ira-Via/-Git-/pull/1#issue-2572260803
